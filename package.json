@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://tiger1028.github.io/Testing-CI-CD/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
